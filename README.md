@@ -25,7 +25,7 @@ Analytics and Reporting: Advanced analytics tools provide insights into sales tr
 
 Promotions and Discounts: Admins can create and manage promotional campaigns, discount codes, and special offers. This feature facilitates marketing initiatives and helps attract and retain customers.
 
-Content Management: The admin panel often includes tools for managing static content such as website banners, landing pages, and blog posts. This helps keep the platform engaging and up to date.
+Content Management: The admin panel often includes tools for managing static content such as website banners, landing pages, and blog posts. This helps keep the platform engaging and up-to-date.
 
 Security and Permissions: Multi-level access control ensures that different administrators have appropriate levels of access to the panel. Security measures safeguard sensitive business data and prevent unauthorized access.
 
