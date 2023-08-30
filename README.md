@@ -31,5 +31,4 @@ Security and Permissions: Multi-level access control ensures that different admi
 
 Platform Settings: Administrators can configure various platform settings, such as payment gateways, shipping options, tax rates, and email notifications. These settings influence the overall functionality of the e-commerce store.
 
-
 In essence, the admin panel page is the control center that empowers e-commerce businesses to operate smoothly, efficiently, and profitably. By providing a centralized hub for managing products, customers, orders, and more, this tool is instrumental in delivering a seamless online shopping experience while facilitating the growth and success of the e-commerce venture.
